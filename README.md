@@ -1,7 +1,5 @@
-[INTRODUCTION TO JAVASCRIPT](https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)
+[INTRODUCTION TO JAVASCRIPT](https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)<br>
 [TechStack](https://techstack.surge.sh) and [Codecademy](http://ssqt.co/mQfpbL0)
-
---------------------------------------------------------------------------------
 
 ## Review
 
@@ -19,7 +17,7 @@ Built-in objects, including `Math`, are collections of methods and properties th
 
 Download the [Introduction: Cheat Sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference) to help you remember the content covered in this lesson.
 
------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-![Image](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg)
-[introduction to javascript](https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)
+[![Image](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg)]
+(https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)
