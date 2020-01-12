@@ -1,4 +1,4 @@
-[INTRODUCTION TO JAVASCRIPT](https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)<br>
+[INTRODUCTION TO JAVASCRIPT](https://drive.google.com/drive/folders/18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD?usp=sharing)<br>
 [TechStack](https://techstack.surge.sh) and [Codecademy](http://ssqt.co/mQfpbL0)
 
 ## Review
@@ -19,4 +19,4 @@ Download the [Introduction: Cheat Sheet](https://www.codecademy.com/learn/introd
 
 --------------------------------------------------------------------------------
 
-[![Lessons](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg)](https://drive.google.com/open?id=18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD)
+[![Lessons](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg)](https://drive.google.com/drive/folders/18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD?usp=sharing)
