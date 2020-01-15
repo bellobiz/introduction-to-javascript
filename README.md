@@ -19,6 +19,4 @@ Download the [Introduction: Cheat Sheet](https://www.codecademy.com/learn/introd
 
 --------------------------------------------------------------------------------
 
-<p style="margin: 0 auto">
-  <a href="https://drive.google.com/drive/folders/18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD?usp=sharing"><img src="https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg" /></a>
-</p>
+[![Lessons](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-introduction-introduction-to-javascript/JS_graphic.svg)](https://drive.google.com/drive/folders/18ynjjWfdaqXFLP_-1XwtXsfDGzxa8NGD?usp=sharing)
